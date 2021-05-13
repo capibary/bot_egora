@@ -1,2 +1,4 @@
-requests
-aiogram
+requests==2.25.1
+aiogram==2.13
+aiohttp==3.7.4.post0
+
